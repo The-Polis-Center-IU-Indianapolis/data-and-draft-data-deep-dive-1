@@ -1,0 +1,13 @@
+# Local R files
+
+.Rproj.user/
+
+.Rhistory
+
+.Rdata
+
+.Ruserdata
+
+.Renviron
+
+.Rprofile
